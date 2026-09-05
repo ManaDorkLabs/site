@@ -1,9 +1,9 @@
 # Editing the site copy
 
-One file here is one page. Edit the text, run `python build.py` from the repo
-root, and the matching `.html` file is rewritten. If you have `python serve.py`
-running, just save and refresh the browser instead — it rebuilds on every
-request.
+One file here is one page. Edit the text and commit it — Vercel rebuilds the
+site on every push, so there is nothing to regenerate by hand. To see a change
+before pushing, run `python serve.py` from the repo root and refresh the
+browser; it rebuilds on every request.
 
 The filename is the URL: `why.txt` becomes `/why`. `index.txt` is the home
 page and is the one page with a different shape (see the bottom of this file).
@@ -31,9 +31,8 @@ links:
 - `heading` is the big Jura heading. `lede` is optional.
 - `links` are the bordered links at the bottom, written as `href | label`.
 
-Adding a page is adding a file with a header. Deleting one is deleting the
-file — but also delete the stale `.html` it left at the repo root, since the
-build only writes files, it never removes them.
+Adding a page is adding a file with a header; deleting one is deleting the
+file. The build writes a fresh `dist/` each time, so nothing lingers.
 
 ## The body
 
@@ -135,6 +134,11 @@ rather than here.
 
 ## If the build complains
 
-`python build.py` prints the error and stops without touching the HTML, so a
-typo can't take the site down. The usual causes are a `:::` fence that was
-never closed, or a block name that isn't one of the four above.
+`python build.py` prints the error and stops without writing anything. The
+usual causes are a `:::` fence that was never closed, or a block name that
+isn't one of the four above. It also warns about `ignoring unknown setting`,
+which nearly always means a `- ` list in the header lost the `key:` line above
+it — the list is then silently dropped, so it is worth heeding.
+
+Note that a build failure fails the whole Vercel deployment, which leaves the
+last good version live rather than breaking the site.

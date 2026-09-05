@@ -10,20 +10,20 @@ links:
 - /roadmap | The Roadmap
 - mailto:hello@manadorklabs.com | Get in touch
 
-## The proof of concept
+## Proof of Concept
 
 We are developing the Agora as a proof of concept. It will demonstrate the
 viability and scalability of a cooperative marketplace.
 
-> The goal: show that an alternative exists, prove that it can work, then SCALE.
+Our goal: show that an alternative to extraction exists, prove that it can work, then SCALE.
 
-From the proof of concept, MDL will carve out a set of core features that can
-be copied into additional marketplace cooperative iterations in other domains.
-The capital raised from the first successfully scaled marketplace will be used
-to branch into more marketplaces and establish more cooperatives.
+From a successful proof of concept, MDL will carve out a set of core features which can
+be re-used for additional cooperative marketplaces in other domains.
+The capital raised from the cash flow of the first successfully scaled marketplace will facilitate
+the creation and growth of more cooperative marketplaces.
 
-## Key elements of the marketplace infrastructure
+## Key tenets of our marketplace infrastructure
 
-- Cooperative ownership to avoid extractive marketplace rents from a 3rd party
-- Simple, intuitive user interfaces with minimal set up friction
-- Blockchain technology to access next generation cost reductions in payment rail operation and governance execution
+- Minimize friction
+- Minimize fees
+- Maximize cooperative ownership

@@ -1,13 +1,15 @@
 """Local preview server.
 
 Rebuilds the site from content/pages/ before serving each page, so editing a
-content file and refreshing the browser is enough to see the change.
+content file and refreshing the browser is enough to see the change. Serves
+dist/ -- the same directory Vercel deploys.
 
 Vercel is configured with `cleanUrls`, so `/vision` serves `vision.html` in
 production and every link on the site is written without the extension. Plain
 `python -m http.server` would 404 on those, so this adds the same rewrite.
 """
 
+import functools
 import os
 import sys
 from http.server import HTTPServer, SimpleHTTPRequestHandler
@@ -40,5 +42,6 @@ class SiteHandler(SimpleHTTPRequestHandler):
 
 if __name__ == "__main__":
     build.build()
+    handler = functools.partial(SiteHandler, directory=str(build.DIST))
     print(f"Serving on http://localhost:{PORT}")
-    HTTPServer(("127.0.0.1", PORT), SiteHandler).serve_forever()
+    HTTPServer(("127.0.0.1", PORT), handler).serve_forever()

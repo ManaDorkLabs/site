@@ -6,14 +6,9 @@ dependencies.
 ## Editing the copy
 
 All of the site's words live in `content/pages/` — one text file per page.
-Edit the text, then run:
-
-```bash
-python build.py
-```
-
-That rewrites the `.html` files at the repo root. Commit both the content file
-and the rebuilt HTML; Vercel serves the HTML as-is and does not run the build.
+Edit the text and commit it; Vercel runs `build.py` on deploy, so there is no
+generated HTML to keep in step. Run `python build.py` yourself only if you
+want to inspect the output in `dist/`.
 
 The format is documented in [content/pages/README.md](content/pages/README.md).
 It is a handful of conventions — `## heading`, `- bullet`, `> quote`, and four
@@ -29,6 +24,13 @@ Then open `http://localhost:8080`. It rebuilds before serving each page, so
 you can edit a content file and just refresh. Links are written without the
 `.html` extension to match Vercel's `cleanUrls`, which is why this exists
 rather than `python -m http.server`.
+
+## Build
+
+`build.py` renders `content/pages/*.txt` into `dist/`, together with a copy of
+`assets/`. `dist/` is rebuilt from scratch each run and is not checked in —
+`vercel.json` points Vercel at it via `buildCommand` and `outputDirectory`, so
+every push builds and deploys. Nothing else in the repo is served.
 
 ## Pages
 

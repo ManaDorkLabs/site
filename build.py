@@ -1,8 +1,9 @@
 """Build the site's HTML pages from the text files in content/pages/.
 
-Run `python build.py`. Every .txt file in content/pages/ becomes one page at
-the repo root, and the top-bar nav is assembled from their headers, so adding
-a page is a matter of adding a file. `python serve.py` runs this for you on
+Run `python build.py`. Every .txt file in content/pages/ becomes one page in
+dist/, alongside a copy of assets/, and the top-bar nav is assembled from their
+headers, so adding a page is a matter of adding a file. dist/ is what Vercel
+deploys and is not checked in. `python serve.py` runs this for you on
 every request, so while previewing locally you only need to save and refresh.
 
 The markup the content files use is documented in content/pages/README.md.
@@ -11,11 +12,14 @@ Nothing here is imported by the site itself: the output is plain static HTML.
 
 import html
 import re
+import shutil
 import sys
 from pathlib import Path
 
 ROOT = Path(__file__).parent
 PAGES = ROOT / "content" / "pages"
+ASSETS = ROOT / "assets"
+DIST = ROOT / "dist"  # what gets deployed; not checked in
 
 FONTS = "https://fonts.googleapis.com/css2?family=Jura:wght@300..700&family=Space+Mono:wght@400;700&display=swap"
 FAVICON = (
@@ -61,6 +65,23 @@ def split_header(raw):
             # A key with nothing after the colon collects the `- ` lines below it.
             header[key] = value.strip() if value.strip() else []
     return header, body
+
+
+KNOWN_KEYS = {
+    "title", "description", "nav", "order", "eyebrow", "heading", "lede",
+    "links", "tagline", "chips",
+}
+
+
+def check_keys(header, name):
+    """Warn about header keys we do not recognise.
+
+    Almost always a `- ` list that lost the key above it, which would
+    otherwise just go quiet: the block it belonged to simply stops rendering.
+    """
+    for key in header:
+        if key not in KNOWN_KEYS:
+            print(f"  {name}: ignoring unknown setting '{key}'", file=sys.stderr)
 
 
 def paragraphs(lines):
@@ -345,6 +366,7 @@ def build():
     pages = []
     for path in sorted(PAGES.glob("*.txt")):
         header, body = split_header(path.read_text(encoding="utf-8"))
+        check_keys(header, path.name)
         header["slug"] = path.stem
         # `// ...` lines are notes to ourselves; they never reach the page.
         header["body"] = [l for l in body if not l.lstrip().startswith("//")]
@@ -365,8 +387,14 @@ def build():
         name = "index.html" if page["slug"] == "index" else f'{page["slug"]}.html'
         rendered[name] = "\n".join(lines)
 
+    # A fresh dist/ each time, so a page deleted from content/pages/ stops
+    # being deployed instead of lingering as a stale file.
+    if DIST.exists():
+        shutil.rmtree(DIST)
+    DIST.mkdir()
     for name, text in rendered.items():
-        (ROOT / name).write_text(text, encoding="utf-8")
+        (DIST / name).write_text(text, encoding="utf-8")
+    shutil.copytree(ASSETS, DIST / "assets")
     return sorted(rendered)
 
 
