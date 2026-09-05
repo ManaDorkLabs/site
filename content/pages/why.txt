@@ -19,7 +19,7 @@ links:
 - Referendum expenses
 - Preference alignment
 - Conflict resolution
-- Capital acquisition
+- Capital access
 ### Capitalist costs = Extraction
 - Management surveillance
 - Compliance and tracking systems
@@ -37,19 +37,10 @@ Critically, the economic efficiency of cooperative ownership is accelerating, an
 
 ## Blockchain
 
-Blockchain technology is by and large an untapped resource when it comes to
-solving coordination problems. Over the last 10 years or so, it has developed a
-stigma that prevents many from looking more deeply at the core technology. Far
-beyond simple financial scams, blockchain presents an opportunity for large
-swathes of people to achieve consensus more cheaply than ever in history.
+Blockchain technology (or distributed ledger technology, DLT) is by and large an untapped resource for solving coordination problems. Blockchain, in its initial incarnation as "decentralized finance", developed a (well deserved) stigma that still prevents many from evaluating the core technology more closely. Far beyond simple financial scams, blockchain presents an opportunity for large swathes of people to **achieve consensus more cheaply than ever in human history**.
 
-The technology's capacity to trustlessly provide voting, governance, data
-storage, digital provenance, escrow, payment facilitation, and many other
-things **WILL** revolutionize almost every industry as people begin to realize
-the applications outside of (degenerate) finance. For marketplace cooperatives
-especially, blockchain represents the opportunity to build something that can
-economically outcompete an otherwise-equivalent capitalist business.
+Blockchain's capacity to trustlessly faciliate voting, governance, data storage, digital provenance, escrow, payments, and countless other digital activities *will* revolutionize every digital industry as people begin to recognize the applications outside of "crypto". For marketplace cooperatives especially, these capabilities grant the power to build an economic contender to the entrenched pro-capitalist order.
 
-By dropping coordination costs while shareholder demands for dividends remain
-the same, cooperative business structures will edge their way into the market
-and slowly take over more and more industries.
+Shareholder demand for dividends will always remain the same, since the demand for profit is driven by greed and thus will always be maximized. Cooperative coordination costs, however, can only ever go down, and as we slash those costs, cooperative business structures will edge their way into the market and eventually take over more and more industries.
+
+As they say: first slowly, then... all at once.
