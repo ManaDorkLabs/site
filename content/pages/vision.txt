@@ -12,18 +12,12 @@ links:
 
 ## Proof of Concept
 
-We are developing the Agora as a proof of concept. It will demonstrate the
-viability and scalability of a cooperative marketplace.
+We are developing the **Agora** as a proof of concept. It will demonstrate the viability and scalability of a cooperative marketplace. Our goal: show that an alternative to 3rd party marketplaces exists, prove it can work, then **SCALE**.
 
-Our goal: show that an alternative to extraction exists, prove that it can work, then SCALE.
-
-From a successful proof of concept, MDL will carve out a set of core features which can
-be re-used for additional cooperative marketplaces in other domains.
-The capital raised from the cash flow of the first successfully scaled marketplace will facilitate
-the creation and growth of more cooperative marketplaces.
+Upon the successful proof of concept, MDL will carve out the set of core features applicable to all cooperative marketplaces. With the capital raised from the cash flow of the first successfully scaled marketplace, MDL will pursue the creation and growth of more cooperative marketplaces.
 
 ## Key tenets of our marketplace infrastructure
 
 - Minimize friction
 - Minimize fees
-- Maximize cooperative ownership
+- Maximize user ownership

@@ -3,24 +3,24 @@ description: Cooperativism vs capitalism: shareholder dividends weighed against 
 nav: The Why
 order: 2
 eyebrow: The Why
-heading: Capitalism is killing itself
+heading: Capitalism has reached its limits
 lede: Historically, capitalism dominated the economic world. That won't always be the case.
 links:
 - /vision | The Vision
 - /roadmap | The Roadmap
 - mailto:hello@manadorklabs.com | Get in touch
 
-## Cooperativism vs capitalism
+## Cooperativism as coordination vs capitalism as extraction
 
 :::compare
-### Cooperative costs = **Coordination**
+### Coordination Costs
 - Collective bargaining
 - Meeting overhead
 - Referendum expenses
 - Preference alignment
 - Conflict resolution
 - Capital access
-### Capitalist costs = **Extraction**
+### Extraction Costs
 - Management surveillance
 - Compliance and tracking systems
 - Lack of employee motivation due to limited ownership
@@ -29,18 +29,23 @@ links:
 - DIVIDEND PAYMENTS TO SHAREHOLDERS
 :::
 
-## The case
+## The Thesis
 
-Capitalism has outlived its usefulness. Hyper concentrated wealth in the hands of a tiny minority is an active detriment to the well-being of the many. Fortunately, cooperative business structures can eliminate the excessive wealth inequality (and the imbalance of power) that capitalism created. By fairly distributing ownership amongst those who **produce** value (rather than amongst those who simply supply the upfront capital), civilization can finally solve not just wealth inequality, but arguably every human-made problem on the planet.
+Capitalism has outlived its usefulness. Despite driving innovation for the last two hundred years, it has caused wealth to become hyper concentrated in the hands of a tiny minority, who are using that wealth to further increase their own power, at the detriment of everyone else. Fortunately, cooperative business structures can eliminate the excessive wealth inequality (and therefore the imbalance of power) that capitalism has generated. By fairly distributing ownership amongst those who **produce** value (rather than amongst those who simply supply the upfront capital), civilization can finally solve not just wealth inequality, but arguably every human-made problem on the planet.
 
-Critically, the economic efficiency of cooperative ownership is accelerating, and this acceleration is being powered by the explosive advancement of digital technology over the last two decades.
+Because a standard corporation is *legally required* to maximize returns for its shareholders, the capitalist demand for extraction is not reducible; if the corporation *can* extract more value, it is *legally obligated* to do so. The often missed extrapolation here is that this legally-mandated shareholder profit comes at the expense of both the employees who work for the business and the customers who purchase from the business. **Shareholder profits represent a Dead Weight Loss tax between producers and consumers.**
 
-## Distributed Ledger Technology
+Cooperatives, on the other hand, are not built with the same incentives; the owners are not shareholders, but members of the cooperative: sellers, buyers, users, patrons, owners. The cooperative does not exist as a profit maximizing entity in and of itself, but rather as a **cost minimization entity for all of the members who utilize it.**
 
-Blockchain technology (or distributed ledger technology, DLT) is by and large an untapped resource for solving coordination problems. Blockchain, in its initial incarnation as "decentralized finance", developed a (well deserved) stigma that still prevents many from evaluating the use cases of the core technology more closely. Far beyond mere financial scams, blockchain presents an opportunity for large swathes of people to **achieve consensus more cheaply than ever before in human history**.
+The key comparison for evaluating which business structure is more efficient then becomes this:
+> are the coordination costs of running a cooperative less than the extractive costs of running a capitalist corporation?
 
-Blockchain's capacity to trustlessly facilitate voting, governance, data storage, digital provenance, escrow, payments, and countless other digital activities *will* revolutionize every digital industry as people begin to recognize the applications outside of "crypto". For marketplace cooperatives especially, these capabilities grant the power to build an economic contender to the entrenched pro-capitalist order.
+Historically, the answer to this has, unfortunately, been **no**. Crucially, though, the economic efficiency of the cooperative structure can be improved, and this improvement is enabled by the explosive advancement of digital technology over the last two decades.
 
-Shareholder demand for dividends will always remain the same, since the demand for profit is driven by the maximizing incentive of human greed. Cooperative coordination costs, however, are simple budget line items. When those costs go down, everyone benefits and so the incentive will always be minimization. As we slash those costs, the forces of economic evolution will take hold, and cooperative business structures will begin to edge their way into the market, eventually taking over more and more industries.
+## The Asymmetric Cost Reducer
 
-As the saying goes: first slowly, then... all at once.
+Blockchain technology (or distributed ledger technology, DLT) is an untapped resource for solving coordination problems. DLT, in its initial incarnation as "decentralized finance", developed a (well deserved) stigma that unfortunately still prevents many from evaluating its use cases more rationally. Far beyond mere financial scams, DLT presents the opportunity for large swathes of people to **achieve consensus more cheaply than ever before in human history**.
+
+DLT's capacity to trustlessly facilitate voting, governance, data storage, digital provenance, escrow, payments, and countless other online activities will inevitably revolutionize every digital industry. For marketplace cooperatives especially, DLT grants the capabilities to build an economic contender worthy of rivalling the entrenched pro-capitalist order.
+
+**As the saying goes: first slowly, then... all at once.**
