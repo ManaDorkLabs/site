@@ -21,8 +21,7 @@ We derive our core values from the Japanese concept of ikigai, or "a reason for 
 - Do something that the world needs
 :::
 
-
-Mana Dork Labs is our ikigai.
+> Mana Dork Labs is our ikigai.
 
 ## Who We Are
 

@@ -16,7 +16,7 @@ Traditional online marketplaces are 3rd party endeavors owned and run by neither
 
 ## The Missing Piece
 
-An agora was a central public space in ancient Greek city-states, and represented the center of the athletic, artistic, business, social, spiritual, and political life of the city.
+An agora was a central public space in ancient Greek city-states, and represented the center of the city's athletic, artistic, business, social, spiritual, and political life.
 
 Mana Dork Labs is developing the **Agora**, our cooperative marketplace infrastructure, named in honor of that public commons. The goal of the Agora is to show that an alternative can be built, prove that it can work, then demonstrate that it can scale.
 

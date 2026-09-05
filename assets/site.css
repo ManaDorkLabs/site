@@ -175,7 +175,7 @@ body::after{
    at every width so the count can change without leaving empty cells. */
 .values{
   list-style:none;margin:0;padding:0;
-  display:grid;grid-template-columns:1fr;gap:1px;
+  display:grid;grid-template-columns:1fr;gap:1px;margin:0 0 18px;
   background:var(--rule);border:1px solid var(--rule);
 }
 .values li{background:var(--ink);padding:20px 24px;color:var(--cream);font-size:14px;line-height:1.6}
@@ -209,7 +209,7 @@ body::after{
 }
 
 /* Team. */
-.people{display:grid;gap:1px;background:var(--rule);border:1px solid var(--rule)}
+.people{display:grid;gap:1px;margin:0 0 18px;background:var(--rule);border:1px solid var(--rule)}
 .people article{background:var(--ink);padding:26px 24px}
 .people h3{margin:0 0 14px;font-size:13px;letter-spacing:.14em}
 /* Headshot slot. Empty until there are photos to drop in; the ruled square
