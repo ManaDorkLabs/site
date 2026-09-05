@@ -3,7 +3,7 @@ description: Cooperativism vs capitalism: shareholder dividends weighed against 
 nav: The Why
 order: 2
 eyebrow: The Why
-heading: Capitalism is dying
+heading: Capitalism is devouring itself and us
 lede: Historically, capitalism dominated the economic world. That won't always be the case.
 links:
 - /vision | The Vision
@@ -39,7 +39,7 @@ Critically, the economic efficiency of cooperative ownership is accelerating, an
 
 Blockchain technology (or distributed ledger technology, DLT) is by and large an untapped resource for solving coordination problems. Blockchain, in its initial incarnation as "decentralized finance", developed a (well deserved) stigma that still prevents many from evaluating the core technology more closely. Far beyond simple financial scams, blockchain presents an opportunity for large swathes of people to **achieve consensus more cheaply than ever in human history**.
 
-Blockchain's capacity to trustlessly faciliate voting, governance, data storage, digital provenance, escrow, payments, and countless other digital activities *will* revolutionize every digital industry as people begin to recognize the applications outside of "crypto". For marketplace cooperatives especially, these capabilities grant the power to build an economic contender to the entrenched pro-capitalist order.
+Blockchain's capacity to trustlessly facilitate voting, governance, data storage, digital provenance, escrow, payments, and countless other digital activities *will* revolutionize every digital industry as people begin to recognize the applications outside of "crypto". For marketplace cooperatives especially, these capabilities grant the power to build an economic contender to the entrenched pro-capitalist order.
 
 Shareholder demand for dividends will always remain the same, since the demand for profit is driven by greed and thus will always be maximized. Cooperative coordination costs, however, can only ever go down, and as we slash those costs, cooperative business structures will edge their way into the market and eventually take over more and more industries.
 

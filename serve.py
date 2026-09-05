@@ -10,6 +10,7 @@ production and every link on the site is written without the extension. Plain
 """
 
 import functools
+import importlib
 import os
 import sys
 from http.server import HTTPServer, SimpleHTTPRequestHandler
@@ -25,7 +26,9 @@ class SiteHandler(SimpleHTTPRequestHandler):
         # can never be what you are looking at.
         if not os.path.splitext(self.path)[1] or self.path.endswith(".html"):
             try:
-                build.build()
+                # Reloaded so that editing build.py takes effect on refresh
+                # too, not just editing a content file.
+                importlib.reload(build).build()
             except Exception as exc:  # a typo in a content file, usually
                 self.send_error(500, "Build failed", str(exc))
                 return None

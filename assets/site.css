@@ -139,7 +139,7 @@ body::after{
 }
 .lede{
   margin:26px 0 0;font-size:15px;line-height:1.75;color:var(--cream);
-  max-width:60ch;text-wrap:pretty;
+  text-wrap:pretty;
 }
 .page h2{
   font-family:var(--wide);font-weight:400;letter-spacing:.08em;text-transform:uppercase;
@@ -154,7 +154,7 @@ body::after{
    only stretch in whole-character steps -- hyphenation keeps that from
    opening rivers down a narrow column. */
 .page p{
-  margin:0 0 18px;max-width:68ch;color:var(--dim);
+  margin:0 0 18px;color:var(--dim);
   text-align:justify;hyphens:auto;
 }
 .page p strong{color:var(--cream);font-weight:700}
@@ -163,7 +163,7 @@ body::after{
 .page a:hover{color:var(--cream)}
 
 /* Marker-prefixed list, used wherever the source notes were bullets. */
-.list{list-style:none;margin:0 0 18px;padding:0;max-width:68ch}
+.list{list-style:none;margin:0 0 18px;padding:0}
 .list li{position:relative;padding-left:22px;margin:0 0 12px;color:var(--dim)}
 .list li::before{
   content:"";position:absolute;left:0;top:.55em;
@@ -197,7 +197,7 @@ body::after{
 .stages li.now::before{background:var(--verdigris);border-color:var(--verdigris)}
 .stages b{display:block;color:var(--cream);font-size:14px;font-weight:700;margin-bottom:8px}
 .stages li.now b{color:var(--verdigris)}
-.stages p{margin:0;max-width:60ch}
+.stages p{margin:0}
 .stages .tag{
   display:inline-block;margin-left:10px;vertical-align:middle;
   font-size:9px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;
@@ -228,7 +228,7 @@ body::after{
    honest placeholder, not as a design element. */
 .draft{
   border:1px dashed var(--rule);padding:18px 20px;margin:0 0 18px;
-  color:var(--lichen);font-size:12px;line-height:1.7;max-width:68ch;
+  color:var(--lichen);font-size:12px;line-height:1.7;
 }
 .draft b{
   display:block;font-size:9px;font-weight:700;letter-spacing:.22em;
@@ -238,7 +238,7 @@ body::after{
 /* Pull quote for the strongest lines from the source notes. */
 .pull{
   margin:34px 0;padding:2px 0 2px 22px;border-left:1px solid var(--verdigris-lo);
-  font-size:15px;line-height:1.75;color:var(--cream);max-width:62ch;
+  font-size:15px;line-height:1.75;color:var(--cream);
 }
 
 .next{display:flex;flex-wrap:wrap;gap:14px;margin-top:56px;padding-top:26px;border-top:1px solid var(--rule)}
