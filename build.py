@@ -306,11 +306,19 @@ def top_bar(page, nav_pages):
     else:
         brand = '    <a class="brand" href="/">Mana Dork Labs</a>'
     out = ['  <header class="bar bar--top">', brand]
-    out.append('    <nav class="nav" aria-label="Primary">')
+    # The checkbox is the whole mobile menu: no script, and it keeps working
+    # with JavaScript off. Above 640px CSS hides it and the nav is a plain row.
+    out += [
+        '    <div class="menu">',
+        '      <input class="menu-toggle" type="checkbox" id="menu" aria-label="Menu">',
+        '      <label class="menu-button" for="menu" aria-hidden="true">'
+        "<span></span><span></span><span></span></label>",
+        '      <nav class="nav" aria-label="Primary">',
+    ]
     for other in nav_pages:
         here = ' aria-current="page"' if other["slug"] == page["slug"] else ""
-        out.append(f'      <a href="/{other["slug"]}"{here}>{other["nav"]}</a>')
-    out += ["    </nav>", "  </header>", ""]
+        out.append(f'        <a href="/{other["slug"]}"{here}>{other["nav"]}</a>')
+    out += ["      </nav>", "    </div>", "  </header>", ""]
     return out
 
 

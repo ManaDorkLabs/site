@@ -115,6 +115,10 @@ body::after{
 }
 .brand:hover{color:var(--verdigris)}
 
+/* Desktop: a plain row. The checkbox and its button are inert until the
+   mobile breakpoint switches them on. */
+.menu{position:relative}
+.menu-toggle,.menu-button{display:none}
 .nav{display:flex;flex-wrap:wrap;align-items:center;gap:20px}
 .nav a{
   font-size:10px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;
@@ -254,8 +258,32 @@ body::after{
 
 @media (max-width:640px){
   .bar{padding:18px 20px}
-  .bar--top{flex-wrap:wrap;gap:14px}
-  .bar--top .micro:last-child{display:none}
+  .bar--top{gap:14px}
+
+  /* The nav collapses into a button in the top right. The checkbox sits
+     invisibly on top of the button so a tap toggles it, and it stays
+     focusable so the keyboard can reach the menu too. */
+  .menu-toggle{
+    display:block;position:absolute;top:-11px;right:-10px;
+    width:44px;height:44px;margin:0;opacity:0;z-index:2;cursor:pointer;
+  }
+  .menu-button{
+    display:flex;flex-direction:column;justify-content:center;gap:4px;
+    width:24px;height:22px;
+  }
+  .menu-button span{display:block;height:1px;background:var(--cream)}
+  .menu-toggle:checked ~ .menu-button span{background:var(--verdigris)}
+  .menu-toggle:focus-visible ~ .menu-button span{background:var(--verdigris)}
+
+  .nav{
+    display:none;position:absolute;top:calc(100% + 14px);right:0;
+    flex-direction:column;align-items:stretch;gap:0;
+    min-width:180px;padding:4px 0;z-index:3;
+    background:var(--ink);border:1px solid var(--rule);
+  }
+  .menu-toggle:checked ~ .nav{display:flex}
+  .nav a{padding:13px 18px;text-align:right;border-bottom:0}
+  .nav a[aria-current="page"]{border-bottom:0}
   .bar--bottom{flex-direction:column;align-items:stretch;gap:16px}
   .contact{text-align:center}
   .stage{padding:24px 20px 32px}
