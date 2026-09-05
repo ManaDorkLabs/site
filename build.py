@@ -313,6 +313,9 @@ def top_bar(page, nav_pages):
         '      <input class="menu-toggle" type="checkbox" id="menu" aria-label="Menu">',
         '      <label class="menu-button" for="menu" aria-hidden="true">'
         "<span></span><span></span><span></span></label>",
+        # A second label for the same checkbox, covering the page while the
+        # menu is open: tapping anywhere outside it closes the menu.
+        '      <label class="menu-scrim" for="menu" aria-hidden="true"></label>',
         '      <nav class="nav" aria-label="Primary">',
     ]
     for other in nav_pages:
