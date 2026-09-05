@@ -35,7 +35,7 @@ photo:
 
 Aerospace engineer with experience developing MVPs in a fast-paced environment under extreme constraints.
 
-draft: Motivation -- to write | Rob's own words on why he is doing this, in a form fit to publish.
+draft: Motivation | Under construction
 
 ### Brian
 
@@ -43,5 +43,5 @@ photo:
 
 Amazon SWE with prior blockchain marketplace experience.
 
-draft: Motivation -- to write | Brian's own words on why he is doing this. Still an open question in the notes.
+draft: Motivation | Under construction
 :::
