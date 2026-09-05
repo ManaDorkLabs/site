@@ -12,7 +12,7 @@ links:
 
 ## Core Values: Ikigai
 
-We derive our core values from the Japanese concept of ikigai, or "a reason for being".
+We derive our core values from the Japanese concept of ikigai, translated literally "a reason for being".
 
 :::values
 - Do something you love
