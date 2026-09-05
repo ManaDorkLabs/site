@@ -167,10 +167,6 @@ body::after{
 /* The three core values. */
 .values{list-style:none;margin:0;padding:0;display:grid;gap:1px;background:var(--rule);border:1px solid var(--rule)}
 .values li{background:var(--ink);padding:22px 24px;color:var(--cream);font-size:14px;line-height:1.6}
-.values li span{
-  display:block;font-size:10px;font-weight:700;letter-spacing:.22em;
-  text-transform:uppercase;color:var(--verdigris);margin-bottom:10px;
-}
 @media (min-width:720px){.values{grid-template-columns:repeat(3,1fr)}}
 
 /* Cooperative costs vs capitalist costs, side by side. */
@@ -205,6 +201,18 @@ body::after{
 .people{display:grid;gap:1px;background:var(--rule);border:1px solid var(--rule)}
 .people article{background:var(--ink);padding:26px 24px}
 .people h3{margin:0 0 14px;font-size:13px;letter-spacing:.14em}
+/* Headshot slot. Empty until there are photos to drop in; the ruled square
+   holds the space so the layout does not shift when they arrive. */
+.people .shot{
+  aspect-ratio:1;width:100%;max-width:200px;margin:0 0 20px;
+  border:1px solid var(--rule);background:#0e120f;
+  display:grid;place-items:center;overflow:hidden;
+}
+.people .shot img{width:100%;height:100%;object-fit:cover;display:block}
+.people .shot span{
+  font-size:9px;font-weight:700;letter-spacing:.22em;
+  text-transform:uppercase;color:var(--rule);
+}
 .people p{margin:0 0 14px;max-width:none}
 .people p:last-child{margin-bottom:0}
 @media (min-width:720px){.people{grid-template-columns:1fr 1fr}}
