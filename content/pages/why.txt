@@ -3,8 +3,8 @@ description: Cooperativism vs capitalism: shareholder dividends weighed against 
 nav: The Why
 order: 2
 eyebrow: The Why
-heading: Why cooperatives
-lede: Historically, capitalism has been the most efficient economic model. Today, that is no longer true.
+heading: Capitalism is dying
+lede: Historically, capitalism dominated the economic world. That won't always be the case.
 links:
 - /vision | The Vision
 - /roadmap | The Roadmap
@@ -23,27 +23,17 @@ links:
 ### Capitalist costs = Extraction
 - Management surveillance
 - Compliance and tracking systems
-- Lack of employee ownership limits motivation
+- Lack of employee motivation due to limited ownership
 - Investor relations overhead
-- Misalignment between short term and long term gain
-- Dividend payments
+- Misalignment between short and long term gain
+- DIVIDEND PAYMENTS TO SHAREHOLDERS
 :::
 
 ## The case
 
-Capitalism may have been the dominant market force for the last 200 years, but
-today it has outlived its usefulness. Hyper concentrated wealth in the hands of
-a tiny few is an active detriment to the well-being of the many. We believe
-that cooperatives are the solution to the excessive wealth inequality (and the
-imbalance of power) that exists today. If we can figure out how to fairly
-distribute ownership to those who produce the value, rather than that ownership
-remaining amongst those who simply supplied the upfront capital, then we can
-begin to start truly solving not only wealth inequality, but in turn almost
-every human-made problem on the planet.
+Capitalism has outlived its usefulness. Hyper concentrated wealth in the hands of a tiny minority is an active detriment to the well-being of the many. Fortunately, cooperative business structures can eliminate the excessive wealth inequality (and the imbalance of power) that capitalism created. By fairly distributing ownership amongst those who **produce** value (rather than amongst those who simply supply the upfront capital), civilization can finally solve not just wealth inequality, but arguably every human-made problem on the planet.
 
-> Fortunately, cooperative ownership is becoming more economically efficient
-> than private ownership, and this is primarily due to the explosive
-> advancement of digital technology of the last two decades.
+Critically, the economic efficiency of cooperative ownership is accelerating, and this acceleration is being powered by the explosive advancement of digital technology over the last two decades.
 
 ## Blockchain
 
