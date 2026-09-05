@@ -9,7 +9,7 @@ links:
 - /roadmap | The Roadmap
 - mailto:hello@manadorklabs.com | Get in touch
 
-## Key tenets of the Agora
+## Key Principles of the Agora
 
 - Minimize friction
 - Minimize fees
@@ -20,17 +20,4 @@ links:
 - Show that a cooperative marketplace is viable and scales
 - Prove that a DLT-based system can function and handle real load
 - Validate the economic models and earn real revenue
-- Identify the set of core features to be copied into additional marketplace cooperative iterations in other domains
-
-// Candidate markets under evaluation, held back until one is chosen:
-// Artisans.coop, a Spotify rival, CardPact. See ../things-to-put-on-the-website.md.
-
-## Status
-
-:::draft Not yet announced
-The name is a work in progress, and we have not settled on the marketplace yet.
-We are looking for the one that best fits our bootstrapping needs. This page
-fills in once that is decided.
-:::
-
-If you know a cooperative market in search of better infrastructure, we want to hear about it.
+- Identify the set of core features that every marketplace needs, while maintaining modularity for usage in other markets

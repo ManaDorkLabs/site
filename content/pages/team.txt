@@ -4,7 +4,7 @@ nav: The Team
 order: 5
 eyebrow: The Team
 heading: Our Ethos
-lede: Leave the world better than you found it, and make some money doing it
+lede: Leave the world better than you found it, and make enough money doing it to keep going
 links:
 - /vision | The Vision
 - /why | The Why
@@ -20,6 +20,7 @@ We derive our core values from the Japanese concept of ikigai, or "a reason for 
 - Do something you can get paid for 
 - Do something that the world needs
 :::
+
 
 Mana Dork Labs is our ikigai.
 
