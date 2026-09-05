@@ -1,0 +1,30 @@
+title: The Agora -- Mana Dork Labs
+description: The Agora is our proof of concept: the first cooperative marketplace built on Mana Dork Labs infrastructure.
+nav: The Agora
+order: 4
+eyebrow: The Agora
+heading: The proof of concept
+lede: We are developing the Agora as a proof of concept. It will demonstrate the viability and scalability of a cooperative marketplace.
+links:
+- /roadmap | The Roadmap
+- mailto:hello@manadorklabs.com | Get in touch
+
+## What it will demonstrate
+
+- That a cooperative marketplace is viable, and that it scales
+- That it can function and handle real load
+- That the economic models hold, and earn real revenue
+- A set of core features that can be copied into additional marketplace cooperative iterations in other domains
+
+// Candidate markets under evaluation, held back until one is chosen:
+// Artisans.coop, a Spotify rival, CardPact. See ../things-to-put-on-the-website.md.
+
+## Status
+
+:::draft Not yet announced
+The name is a work in progress, and we have not settled on the marketplace yet.
+We are looking for the one that best fits our bootstrapping needs. This page
+fills in once that is decided.
+:::
+
+If you know a market that fits, we want to hear about it.

@@ -1,0 +1,43 @@
+title: Team -- Mana Dork Labs
+description: The 3 core values of Mana Dork Labs, and the people building it.
+nav: The Team
+order: 5
+eyebrow: The Team
+heading: Our Ethos
+lede: 3 core values, and the backgrounds that make us good candidates to build this thing.
+links:
+- /vision | The Vision
+- /why | The Why
+- mailto:hello@manadorklabs.com | Get in touch
+
+## Core values
+
+:::values
+- Leave the world better than we found it.
+- Strive to enable agency for all people.
+- Tackle what is possible within the constraints of the real world.
+:::
+
+## The people
+
+:::people
+### Rob
+
+// Rob's motivation in the source notes reads "Ikigai + fuck capitalism".
+// Needs a version he is happy to publish before the draft box comes out.
+
+photo:
+
+Aerospace engineer with experience operating in a fast-paced environment with
+extreme constraints.
+
+draft: Motivation -- to write | Rob's own words on why he is doing this, in a form fit to publish.
+
+### Brian
+
+photo:
+
+Amazon SWE with prior blockchain marketplace experience.
+
+draft: Motivation -- to write | Brian's own words on why he is doing this. Still an open question in the notes.
+:::

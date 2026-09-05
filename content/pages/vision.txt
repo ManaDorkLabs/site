@@ -1,0 +1,29 @@
+title: Vision -- Mana Dork Labs
+description: Mana Dork Labs builds cooperative online marketplaces with democratic governance and ultra-low fees.
+nav: The Vision
+order: 1
+eyebrow: The Vision
+heading: What we're building
+lede: Mana Dork Labs builds cooperative online marketplaces with democratic governance and ultra-low fees.
+links:
+- /why | The Why
+- /roadmap | The Roadmap
+- mailto:hello@manadorklabs.com | Get in touch
+
+## The proof of concept
+
+We are developing the Agora as a proof of concept. It will demonstrate the
+viability and scalability of a cooperative marketplace.
+
+> The goal: show that an alternative exists, prove that it can work, then SCALE.
+
+From the proof of concept, MDL will carve out a set of core features that can
+be copied into additional marketplace cooperative iterations in other domains.
+The capital raised from the first successfully scaled marketplace will be used
+to branch into more marketplaces and establish more cooperatives.
+
+## Key elements of the marketplace infrastructure
+
+- Cooperative ownership to avoid extractive marketplace rents from a 3rd party
+- Simple, intuitive user interfaces with minimal set up friction
+- Blockchain technology to access next generation cost reductions in payment rail operation and governance execution
