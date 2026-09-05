@@ -1,5 +1,7 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "python3 build.py",
+  "outputDirectory": "dist",
   "cleanUrls": true,
   "trailingSlash": false,
   "headers": [
@@ -12,7 +14,7 @@
       ]
     },
     {
-      "source": "/",
+      "source": "/(vision|why|roadmap|agora|team)?",
       "headers": [
         { "key": "Cache-Control", "value": "public, max-age=0, s-maxage=300, stale-while-revalidate=86400" }
       ]

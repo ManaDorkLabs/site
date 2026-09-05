@@ -1,0 +1,30 @@
+title: Roadmap -- Mana Dork Labs
+description: The road from core technology to a scaled cooperative marketplace.
+nav: The Roadmap
+order: 3
+eyebrow: The Roadmap
+heading: Critical mass is coming
+lede: The trick is in the bootstraps
+links:
+- /agora | The Agora
+- /why | The Why
+- mailto:hello@manadorklabs.com | Get in touch
+
+## Stages
+
+:::stages
+- [now] Develop the core infrastructure
+- Bootstrap with an existing or new cooperative marketplace
+- Go live and prove that the systems can handle real load
+- Validate the economic models and generate meaningful cash flows
+- Expand into other cooperative marketplaces, bolstered by capital flows from the successful proof of concept
+- Democratize capital, enable even more cooperatives beyond just marketplaces, and save the world
+:::
+
+## The First Cooperative
+
+:::draft Not yet announced
+We have not settled on the marketplace yet. We are looking for a fit that is *just* right.
+:::
+
+If you know a cooperative market in search of better infrastructure, we want to hear about it.

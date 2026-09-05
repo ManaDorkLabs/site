@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "mdl-site",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["serve.py", "8080"],
+      "port": 8080
+    }
+  ]
+}

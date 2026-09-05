@@ -1,0 +1,23 @@
+title: The Agora -- Mana Dork Labs
+description: The Agora is our proof of concept: the first cooperative marketplace built on Mana Dork Labs infrastructure.
+nav: The Agora
+order: 4
+eyebrow: The Agora
+heading: The Core Infrastructure
+lede: The Agora is our proof of concept. It is the 1.0 that will enable and demonstrate the viability and scalability of cooperative marketplaces.
+links:
+- /roadmap | The Roadmap
+- mailto:hello@manadorklabs.com | Get in touch
+
+## Key Principles of the Agora
+
+- Minimize friction
+- Minimize fees
+- Maximize user ownership
+
+## The Agora's Demonstration Goals
+
+- Show that a cooperative marketplace is viable and scales
+- Prove that a DLT-based system can function and handle real load
+- Validate the economic models and earn real revenue
+- Identify the set of core features that every marketplace needs, while maintaining modularity for usage in other markets
