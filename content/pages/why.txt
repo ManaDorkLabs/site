@@ -3,7 +3,7 @@ description: Cooperativism vs capitalism: shareholder dividends weighed against 
 nav: The Why
 order: 2
 eyebrow: The Why
-heading: Economics is about to evolve
+heading: Economics is evolving
 lede: Historically, capitalism dominated the economic world. That won't always be the case.
 links:
 - /vision | The Vision

@@ -9,6 +9,12 @@ links:
 - /roadmap | The Roadmap
 - mailto:hello@manadorklabs.com | Get in touch
 
+## Key tenets of the Agora
+
+- Minimize friction
+- Minimize fees
+- Maximize user ownership
+
 ## The Agora's Demonstration Goals
 
 - Show that a cooperative marketplace is viable and scales

@@ -3,21 +3,21 @@ description: Mana Dork Labs builds cooperative online marketplaces with democrat
 nav: The Vision
 order: 1
 eyebrow: The Vision
-heading: Cooperative Online Marketplaces
-lede: Mana Dork Labs builds cooperative online marketplaces, with a focus on democratic governance and ultra-low fees.
+heading: Cooperative Marketplaces
+lede: Mana Dork Labs is building the infrastructure for cooperative online marketplaces, with a focus on democratic governance and ultra-low fees.
 links:
 - /why | The Why
 - /roadmap | The Roadmap
 - mailto:hello@manadorklabs.com | Get in touch
 
-## Proof of Concept
+## The State of Play
 
-We are developing the **Agora** as a proof of concept. It will demonstrate the viability and scalability of a cooperative marketplace. Our goal: show that an alternative to 3rd party marketplaces exists, prove it can work, then **SCALE**.
+Traditional online marketplaces are 3rd party endeavors run by neither the buyers nor the sellers. They charge exorbitant fees, offer no say in how the marketplace is run, and exist purely as a middleman working to skim maximum profit of the top of every transaction. Mana Dork Labs exists to change that.
 
-Upon the successful proof of concept, MDL will carve out the set of core features applicable to all cooperative marketplaces. With the capital raised from the cash flow of the first successfully scaled marketplace, MDL will pursue the creation and growth of more cooperative marketplaces.
+## The Missing Piece
 
-## Key tenets of our marketplace infrastructure
+An agora was a central public space in ancient Greek city-states, and represented the center of the athletic, artistic, business, social, spiritual, and political life of the city.
 
-- Minimize friction
-- Minimize fees
-- Maximize user ownership
+In honor of that public commons, Mana Dork Labs is developing the **Agora**, our cooperative marketplace infrastructure. The goal of the Agora is to show that an alternative to 3rd party marketplaces can be built, prove that it can work, then demonstrate that it can **scale**.
+
+Once the first successful iteration is demonstrated, Mana Dork Labs will broaden the Agora, expanding it to work for more marketplaces, which will in turn enable more cooperatives to flourish.
