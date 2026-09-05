@@ -3,7 +3,7 @@ description: Cooperativism vs capitalism: shareholder dividends weighed against 
 nav: The Why
 order: 2
 eyebrow: The Why
-heading: Capitalism is devouring itself and us
+heading: Capitalism is killing itself
 lede: Historically, capitalism dominated the economic world. That won't always be the case.
 links:
 - /vision | The Vision
@@ -13,14 +13,14 @@ links:
 ## Cooperativism vs capitalism
 
 :::compare
-### Cooperative costs = Coordination
+### Cooperative costs = **Coordination**
 - Collective bargaining
 - Meeting overhead
 - Referendum expenses
 - Preference alignment
 - Conflict resolution
 - Capital access
-### Capitalist costs = Extraction
+### Capitalist costs = **Extraction**
 - Management surveillance
 - Compliance and tracking systems
 - Lack of employee motivation due to limited ownership
@@ -41,6 +41,6 @@ Blockchain technology (or distributed ledger technology, DLT) is by and large an
 
 Blockchain's capacity to trustlessly facilitate voting, governance, data storage, digital provenance, escrow, payments, and countless other digital activities *will* revolutionize every digital industry as people begin to recognize the applications outside of "crypto". For marketplace cooperatives especially, these capabilities grant the power to build an economic contender to the entrenched pro-capitalist order.
 
-Shareholder demand for dividends will always remain the same, since the demand for profit is driven by greed and thus will always be maximized. Cooperative coordination costs, however, can only ever go down, and as we slash those costs, cooperative business structures will edge their way into the market and eventually take over more and more industries.
+Shareholder demand for dividends will always remain the same, since the demand for profit is driven by the maximizing incentive of human greed. Cooperative coordination costs, however, are simple budget line items. When those costs go down, everyone benefits and so the incentive will always be minimization. As we slash those costs, the forces of economic evolution will take hold, and cooperative business structures will begin to edge their way into the market, eventually taking over more and more industries.
 
-As they say: first slowly, then... all at once.
+As the saying goes: first slowly, then... all at once.
