@@ -4,7 +4,7 @@ nav: The Why
 order: 2
 eyebrow: The Why
 heading: Why cooperatives
-lede: Cooperativism vs capitalism: shareholder dividends weighed against cooperative coordination costs.
+lede: Historically, capitalism has been the most efficient economic model. Today, that is no longer true.
 links:
 - /vision | The Vision
 - /roadmap | The Roadmap
@@ -13,14 +13,14 @@ links:
 ## Cooperativism vs capitalism
 
 :::compare
-### Cooperative costs
+### Cooperative costs = Coordination
 - Collective bargaining
 - Meeting overhead
 - Referendum expenses
 - Preference alignment
 - Conflict resolution
 - Capital acquisition
-### Capitalist costs
+### Capitalist costs = Extraction
 - Management surveillance
 - Compliance and tracking systems
 - Lack of employee ownership limits motivation
