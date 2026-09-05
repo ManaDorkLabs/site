@@ -4,21 +4,22 @@ nav: The Team
 order: 5
 eyebrow: The Team
 heading: Our Ethos
-lede: 3 core values, and the backgrounds that make us good candidates to build this thing.
+lede: Leave the world better than you found it, and make some money doing it
 links:
 - /vision | The Vision
 - /why | The Why
 - mailto:hello@manadorklabs.com | Get in touch
 
-## Core values
+## Core values: Ikigai
 
 :::values
-- Leave the world better than we found it.
-- Strive to enable agency for all people.
-- Tackle what is possible within the constraints of the real world.
+- Do something you love
+- Do something you are good at 
+- Do something you can get paid for 
+- Do something that the world needs
 :::
 
-## The people
+## Us
 
 :::people
 ### Rob
@@ -28,8 +29,7 @@ links:
 
 photo:
 
-Aerospace engineer with experience operating in a fast-paced environment with
-extreme constraints.
+Aerospace engineer with experience developing MVPs in a fast-paced environment under extreme constraints.
 
 draft: Motivation -- to write | Rob's own words on why he is doing this, in a form fit to publish.
 
