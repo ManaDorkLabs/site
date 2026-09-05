@@ -37,7 +37,7 @@ Critically, the economic efficiency of cooperative ownership is accelerating, an
 
 ## Distributed Ledger Technology
 
-Blockchain technology (or distributed ledger technology, DLT) is by and large an untapped resource for solving coordination problems. Blockchain, in its initial incarnation as "decentralized finance", developed a (well deserved) stigma that still prevents many from evaluating the use cases of the core technology more closely. Far beyond mere financial scams, blockchain presents an opportunity for large swathes of people to **achieve consensus more cheaply than ever in human history**.
+Blockchain technology (or distributed ledger technology, DLT) is by and large an untapped resource for solving coordination problems. Blockchain, in its initial incarnation as "decentralized finance", developed a (well deserved) stigma that still prevents many from evaluating the use cases of the core technology more closely. Far beyond mere financial scams, blockchain presents an opportunity for large swathes of people to **achieve consensus more cheaply than ever before in human history**.
 
 Blockchain's capacity to trustlessly facilitate voting, governance, data storage, digital provenance, escrow, payments, and countless other digital activities *will* revolutionize every digital industry as people begin to recognize the applications outside of "crypto". For marketplace cooperatives especially, these capabilities grant the power to build an economic contender to the entrenched pro-capitalist order.
 
