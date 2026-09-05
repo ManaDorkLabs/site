@@ -171,10 +171,14 @@ body::after{
 }
 .list li strong{color:var(--cream);font-weight:700}
 
-/* The three core values. */
-.values{list-style:none;margin:0;padding:0;display:grid;gap:1px;background:var(--rule);border:1px solid var(--rule)}
-.values li{background:var(--ink);padding:22px 24px;color:var(--cream);font-size:14px;line-height:1.6}
-@media (min-width:720px){.values{grid-template-columns:repeat(3,1fr)}}
+/* The core values: one full-width bar each, stacked. Kept to a single column
+   at every width so the count can change without leaving empty cells. */
+.values{
+  list-style:none;margin:0;padding:0;
+  display:grid;grid-template-columns:1fr;gap:1px;
+  background:var(--rule);border:1px solid var(--rule);
+}
+.values li{background:var(--ink);padding:20px 24px;color:var(--cream);font-size:14px;line-height:1.6}
 
 /* Cooperative costs vs capitalist costs, side by side. */
 .compare{display:grid;gap:1px;background:var(--rule);border:1px solid var(--rule);margin:0 0 18px}

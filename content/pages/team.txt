@@ -19,7 +19,7 @@ links:
 - Do something that the world needs
 :::
 
-## Us
+## Who We Are
 
 :::people
 ### Rob

@@ -3,8 +3,8 @@ description: The Agora is our proof of concept: the first cooperative marketplac
 nav: The Agora
 order: 4
 eyebrow: The Agora
-heading: Our Core Infrastructure
-lede: The Agora is the core infrastructure for our proof of concept. It will enable and demonstrate the viability and scalability of cooperative marketplaces.
+heading: The Core Infrastructure
+lede: The Agora is our proof of concept. It is the 1.0 that will enable and demonstrate the viability and scalability of cooperative marketplaces.
 links:
 - /roadmap | The Roadmap
 - mailto:hello@manadorklabs.com | Get in touch

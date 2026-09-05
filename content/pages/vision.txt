@@ -3,8 +3,8 @@ description: Mana Dork Labs builds cooperative online marketplaces with democrat
 nav: The Vision
 order: 1
 eyebrow: The Vision
-heading: What we're building
-lede: Mana Dork Labs builds cooperative online marketplaces with democratic governance and ultra-low fees.
+heading: Cooperative Online Marketplaces
+lede: Mana Dork Labs builds cooperative online marketplaces, with a focus on democratic governance and ultra-low fees.
 links:
 - /why | The Why
 - /roadmap | The Roadmap

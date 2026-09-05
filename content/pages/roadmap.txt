@@ -3,8 +3,8 @@ description: The road from core technology to a scaled cooperative marketplace.
 nav: The Roadmap
 order: 3
 eyebrow: The Roadmap
-heading: The bootstraps are real
-lede: Where we are and where we're going
+heading: Chicken or egg
+lede: How we bootstrap
 links:
 - /agora | The Agora
 - /why | The Why
@@ -13,10 +13,10 @@ links:
 ## Stages
 
 :::stages
-- [now] Develop the core technology
-- Bootstrap with an existing or growing cooperative marketplace
-- Go live and prove that the designs can handle real load
-- Validate the economic models and generate viable cash flows
+- [now] Develop the core infrastructure
+- Bootstrap with an existing or new cooperative marketplace
+- Go live and prove that the systems can handle real load
+- Validate the economic models and generate meaningful cash flows
 - Expand into other cooperative marketplaces, bolstered by capital flows from the successful proof of concept
-- Democratize capital, enable more cooperatives, and save the world
+- Democratize capital, enable even more cooperatives beyond just marketplaces, and save the world
 :::
