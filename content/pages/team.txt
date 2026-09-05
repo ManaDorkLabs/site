@@ -10,7 +10,9 @@ links:
 - /why | The Why
 - mailto:hello@manadorklabs.com | Get in touch
 
-# Core values: Ikigai
+## Core Values: Ikigai
+
+We derive our core values from the Japanese concept of ikigai, or "a reason for being".
 
 :::values
 - Do something you love
@@ -18,6 +20,8 @@ links:
 - Do something you can get paid for 
 - Do something that the world needs
 :::
+
+Mana Dork Labs is our ikigai.
 
 ## Who We Are
 
