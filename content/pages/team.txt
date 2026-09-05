@@ -5,10 +5,6 @@ order: 5
 eyebrow: The Team
 heading: Our Ethos
 lede: Leave the world better than you found it, and make enough money doing it to keep going
-links:
-- /vision | The Vision
-- /why | The Why
-- mailto:hello@manadorklabs.com | Get in touch
 
 ## Core Values: Ikigai
 

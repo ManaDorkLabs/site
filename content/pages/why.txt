@@ -5,10 +5,6 @@ order: 2
 eyebrow: The Why
 heading: Economics is evolving
 lede: Historically, capitalism dominated the economic world. That won't always be the case.
-links:
-- /vision | The Vision
-- /roadmap | The Roadmap
-- mailto:hello@manadorklabs.com | Get in touch
 
 ## Cooperativism as coordination -vs- capitalism as extraction
 

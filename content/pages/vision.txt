@@ -5,10 +5,6 @@ order: 1
 eyebrow: The Vision
 heading: Co-op Markets, Scaled
 lede: Mana Dork Labs is building the infrastructure for cooperative online marketplaces, with a focus on democratic governance and ultra-low fees.
-links:
-- /why | The Why
-- /roadmap | The Roadmap
-- mailto:hello@manadorklabs.com | Get in touch
 
 ## The State of Play
 

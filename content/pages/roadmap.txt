@@ -5,10 +5,6 @@ order: 3
 eyebrow: The Roadmap
 heading: Critical mass is coming
 lede: The trick is in the bootstraps
-links:
-- /agora | The Agora
-- /why | The Why
-- mailto:hello@manadorklabs.com | Get in touch
 
 ## Stages
 
