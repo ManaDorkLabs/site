@@ -35,7 +35,7 @@ Capitalism has outlived its usefulness. Hyper concentrated wealth in the hands o
 
 Critically, the economic efficiency of cooperative ownership is accelerating, and this acceleration is being powered by the explosive advancement of digital technology over the last two decades.
 
-## Blockchain
+## Distributed Ledger Technology
 
 Blockchain technology (or distributed ledger technology, DLT) is by and large an untapped resource for solving coordination problems. Blockchain, in its initial incarnation as "decentralized finance", developed a (well deserved) stigma that still prevents many from evaluating the core technology more closely. Far beyond simple financial scams, blockchain presents an opportunity for large swathes of people to **achieve consensus more cheaply than ever in human history**.
 

@@ -150,8 +150,15 @@ body::after{
   font-size:11px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;
   color:var(--cream);margin:32px 0 12px;
 }
-.page p{margin:0 0 18px;max-width:68ch;color:var(--dim)}
+/* Justified prose. Space Mono is monospace, so the spaces between words can
+   only stretch in whole-character steps -- hyphenation keeps that from
+   opening rivers down a narrow column. */
+.page p{
+  margin:0 0 18px;max-width:68ch;color:var(--dim);
+  text-align:justify;hyphens:auto;
+}
 .page p strong{color:var(--cream);font-weight:700}
+.page em{color:var(--cream);font-style:italic}
 .page a{color:var(--verdigris)}
 .page a:hover{color:var(--cream)}
 

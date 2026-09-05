@@ -42,8 +42,8 @@ paragraph can be spread across as many lines as you like.
 ```
 ## A section heading
 
-An ordinary paragraph. Use **bold** for emphasis, [a link](/why) for links,
-and -- for an em dash. Apostrophes are curled for you.
+An ordinary paragraph. Use **bold** and *italic* for emphasis, [a link](/why)
+for links, and -- for an em dash. Apostrophes are curled for you.
 
 > A pull quote, set off with a green rule.
 > It can run to several lines.
