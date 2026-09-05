@@ -10,7 +10,7 @@ links:
 - /why | The Why
 - mailto:hello@manadorklabs.com | Get in touch
 
-## Core values: Ikigai
+# Core values: Ikigai
 
 :::values
 - Do something you love
