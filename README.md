@@ -42,7 +42,7 @@ every push builds and deploys. Nothing else in the repo is served.
 | `/roadmap` | `content/pages/roadmap.txt`| Stages, with the current one marked              |
 | `/agora`   | `content/pages/agora.txt`  | Proof of concept — name and market not settled   |
 | `/team`    | `content/pages/team.txt`   | Ethos and bios — motivations still to be written |
-| `/licence` | `content/pages/licence.txt`| How MDL is paid, and what bounds the licence fee  |
+| `/license` | `content/pages/license.txt`| How MDL is paid, and what bounds the license fee  |
 
 Adding a page means adding a file; the top-bar nav is built from the page
 headers. The original notes the copy came from are in

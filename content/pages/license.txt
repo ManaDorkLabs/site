@@ -1,0 +1,66 @@
+title: The License -- Mana Dork Labs
+description: Mana Dork Labs is a privately owned public benefit corporation, paid a license fee by every cooperative on the Agora. Why that arrangement exists, and what bounds it.
+nav: The License
+order: 6
+eyebrow: The License
+heading: How we get paid
+lede: Mana Dork Labs is a privately owned public benefit corporation, and every cooperative running on the Agora pays us a license fee. Here is why that arrangement exists, and what stops it from becoming the thing we argue against.
+
+## The Arrangement
+
+Mana Dork Labs builds and maintains the Agora and licenses it to marketplace cooperatives. Each cooperative is a separate organization, owned and governed by its own members, and it pays Mana Dork Labs a license fee for the platform it runs on.
+
+That produces two different fees, and keeping them apart matters:
+
+- **The member fee** is what a seller pays their cooperative on a sale. The cooperative sets it, collects it, and returns the surplus to its members.
+- **The license fee** is what the cooperative pays Mana Dork Labs for the software. It is one of the cooperative's operating costs, sitting alongside things like insurance.
+
+We never touch a transaction directly. Mana Dork Labs is not the merchant of record, holds no buyer or seller funds, and takes no commission on an individual sale. Money moves between the buyer, the seller, and the cooperative's treasury. The license fee is the whole of our revenue from any marketplace.
+
+Ownership divides cleanly between the two sides:
+
+:::compare
+### The cooperative owns
+- Its governance and its votes
+- Its treasury and its surplus
+- Its own brand and its own name
+- Its sales data
+- The marketplace itself, as merchant of record
+### Mana Dork Labs owns
+- The source code and intellectual property for the cooperative marketplace infrastructure
+:::
+
+## Why the Cooperative Licenses Its Platform
+
+If the whole point is member ownership, the obvious question is why the cooperative licenses its platform from us rather than building its own. The answer is that the financing does not work, and the pattern is well documented.
+
+Licensing here works the way old-school game expansions did. A cooperative that licenses the Agora holds the version it licensed and keeps it whether or not the agreement continues; renewing buys the next iteration, with its upgrades, its new features, and the maintenance behind them. Declining an expansion pack never took away the game you already owned, and this works the same way.
+
+A marketplace cooperative can usually raise enough from a member buy-in to launch. It cannot usually raise enough to design, build, and maintain a marketplace platform, which is typically a multi-year engineering commitment that earns nothing until there are sellers on it. So the cooperative tends to rent instead, from a hosted commerce vendor that was never built for cooperative governance. The bill for that arrives in control rather than in dollars: rented platforms are cheap, and what they cost is the ability to fix your own bugs, ship the features your members need, and reconcile your own books.
+
+Mana Dork Labs exists to return control to the cooperatives in a way that today's capital markets might actually tolerate. Recurring license revenue across several cooperatives is financeable in a way that one cooperative's platform budget is not, which is the whole reason a separate company is doing this work. What the cooperative buys with the license fee is a platform built for cooperative governance from the ground up, and contractual control over it that no normal privately-owned company would ever agree to.
+
+## A Coordination Cost, Not an Extraction Cost
+
+[The Why](/why) argues that shareholder profit is dead weight loss on transactions between producers and consumers. A license fee is a real cost too, so it is fair to ask whether we are or could become the thing we rail against.
+
+The difference is in what the payment buys. A shareholder dividend is a claim on surplus that persists as long as the shares do, and on the day it is paid it buys the business nothing. A license fee buys a specific thing: software that exists, is maintained, and is improved. Our license fee is capped, it is disclosed in full to the members of the cooperative, it is finite in duration, and it leaves the cooperative with perpetual access to the version of the software as it stands when the license agreement ends.
+
+## What Bounds the Fee
+
+Six protections define the license agreement.
+
+- **A perpetual, irrevocable license.** The cooperative's right to run its marketplace covers the running instance, the API, and the escrowed source, as they stand at the end of the license. We cannot switch it off.
+- **A hard cap, written into the cooperative's bylaws and into the marketplace's immutable code.** The license fee is capped as a share of the cooperative's gross fee revenue, and the cap is entrenched where the members control it rather than where we do.
+- **A fee that flexes with the year.** Part of it is contingent on surplus: a floor covering our marginal cost, plus a variable portion that compresses when the cooperative has a lean year. We only succeed when the cooperative succeeds.
+- **Source escrow with real triggers.** The source releases to the cooperative if Mana Dork Labs becomes insolvent, changes hands, or materially breaches the agreement, and the cooperative holds a right of first refusal on our assets.
+- **A veto over who owns us.** The cooperative holds a share in Mana Dork Labs carrying a veto on any change of control, so it cannot wake up licensing from a buyer it never chose.
+- **Approval and disclosure.** Every license term is approved by cooperative directors with no interest in Mana Dork Labs, published to the membership in full, and re-ratified on a fixed cycle.
+
+## Where We Draw the Line
+
+Three rules go into our corporate charter at formation, which is what makes them binding on us rather than merely stated by us. A constraint the founders can lift at will is not a constraint.
+
+- **We hold nothing inside any cooperative.** No equity, no membership, no patronage account, no board seat, no officer role, and no vote. We are a licensor, and while we are philosophically aligned with the cooperative, the relationship does not legally go any further than that.
+- **We do not operate a marketplace.** Not as merchant of record, not as a holder of anyone's funds, not for a cut of any individual sale, and not on a temporary basis while a cooperative is still forming. Running a demonstration on a test network is software; running a live market is the cooperative's job.
+- **Investors cannot buy their way into the relationship.** The charter bars shares entitling outside investors to unbounded or indefinite returns, and bars investor board control or investor consent rights over the license agreement.
