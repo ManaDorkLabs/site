@@ -1,0 +1,70 @@
+title: The Licence -- Mana Dork Labs
+description: Mana Dork Labs is a for-profit company paid a licence fee by every cooperative on the Agora. Why that arrangement exists, and what bounds it.
+nav: The Licence
+order: 6
+eyebrow: The Licence
+heading: How we get paid
+lede: Mana Dork Labs is a for-profit company, and every cooperative running on the Agora pays us a licence fee. Here is why that arrangement exists, and what stops it from becoming the thing we argue against.
+
+## The Arrangement
+
+There are two organizations here, joined by one contract. Mana Dork Labs is a public benefit corporation that builds and maintains the Agora and licenses it to marketplace cooperatives. Each cooperative is a separate organization, owned and governed by its own members, and it pays Mana Dork Labs a licence fee for the platform it runs on.
+
+That produces two different fees, and keeping them apart matters:
+
+- **The member fee** is what a seller pays their cooperative on a sale. The cooperative sets it, collects it, and returns the surplus to its members.
+- **The licence fee** is what the cooperative pays Mana Dork Labs for the software. It is one of the cooperative's operating costs, sitting alongside payment processing and insurance.
+
+We never touch a transaction. Mana Dork Labs is not the merchant of record, holds no buyer or seller funds, and takes no commission on a sale. Money moves between the buyer, the seller, and the cooperative's treasury. The licence fee is the whole of our revenue from any marketplace.
+
+:::compare
+### The cooperative owns
+- Its members, its governance, and its votes
+- Its treasury and its surplus
+- Its own brand and its own name
+- Its sales data
+- The marketplace itself, as merchant of record
+### Mana Dork Labs owns
+- The source code and the intellectual property
+- The vendor contracts behind the platform
+- The Mana Dork Labs name
+:::
+
+## Why the Cooperative Does Not Own the Software
+
+If the whole point is member ownership, the obvious question is why the cooperative rents its platform from us rather than owning it outright. The answer is that the financing does not work, and the pattern is well documented.
+
+A marketplace cooperative can usually raise enough from a member buy-in to launch. It cannot usually raise enough to design, build, and maintain a marketplace platform, which is a multi-year engineering commitment that earns nothing until there are sellers on it. So the cooperative rents instead, from a hosted commerce vendor that was never built for cooperative governance. The bill for that arrives in control rather than in dollars: rented platforms are cheap, and what they cost is the ability to fix your own bugs, ship the features your members need, and reconcile your own books. Cooperatives on that path frequently end up fundraising a second time to migrate off the thing they rented, having paid once to launch and again to leave.
+
+Mana Dork Labs exists to remove that second payment. Recurring licence revenue across several cooperatives is financeable in a way that one cooperative's platform budget is not, which is the whole reason a separate company is doing this work. What the cooperative buys with the licence fee is a platform built for cooperative governance from the first commit, and contractual control over it that a hosted vendor will not sign.
+
+## A Coordination Cost, Not an Extraction Cost
+
+[The Why](/why) argues that shareholder profit is dead weight loss on transactions between producers and consumers. A licence fee is a real cost too, so it is fair to ask whether we are the thing we are arguing against.
+
+The difference is in what the payment buys. A shareholder dividend is a claim on surplus that persists as long as the shares do, and on the day it is paid it buys the business nothing. A licence fee buys a specific thing: software that exists, is maintained, and is improved. It is capped, it is disclosed in full to the members paying it, and it ends when the cooperative decides it should.
+
+> The Agora is a coordination cost. The alternative is not zero, it is engineering the cooperative cannot fund, a vendor that will not listen, or the fees of a marketplace it does not own.
+
+## What Bounds the Fee
+
+Six protections define the licence agreement. They are settled in principle now, before any cooperative has been asked to sign one, because a protection offered after the fact is a concession rather than a precondition.
+
+- **A perpetual, irrevocable licence.** The cooperative's right to run its marketplace covers the running instance, the API, and the escrowed source. We cannot switch it off.
+- **A hard cap, written into the cooperative's own bylaws.** The licence fee is capped as a share of the cooperative's gross fee revenue, and the cap is entrenched where the members control it rather than where we do.
+- **A fee that flexes with the year.** Part of it is contingent on surplus: a floor covering our marginal cost, plus a variable portion that compresses when the cooperative has a lean year.
+- **Source escrow with real triggers.** The source releases to the cooperative if Mana Dork Labs becomes insolvent, changes hands, or materially breaches the agreement, and the cooperative holds a right of first refusal on our assets.
+- **A veto over who owns us.** The cooperative holds a share in Mana Dork Labs carrying a veto on any change of control, so it cannot wake up licensing from a buyer it never chose.
+- **Approval and disclosure.** Every term is approved by cooperative directors with no interest in Mana Dork Labs, published to the membership in full, and re-ratified on a fixed cycle.
+
+## Where We Draw the Line
+
+Three rules go into our corporate charter at formation, which is what makes them binding on us rather than merely stated by us. A constraint the founders can lift at will is not a constraint.
+
+- **We hold nothing inside any cooperative.** No equity, no membership, no patronage account, no board seat, no officer role, and no vote. We are a vendor, and that is the entirety of the relationship.
+- **We do not operate a marketplace.** Not as merchant of record, not as a holder of anyone's funds, not for a cut of a sale, and not on a temporary basis while a cooperative is still forming. Running a demonstration on a test network is software; running a market is the cooperative's job.
+- **Investors cannot buy their way into the relationship.** The charter bars shares entitling outside investors to unbounded or indefinite returns, and bars investor board control or investor consent rights over the licence agreement.
+
+## What Is Not Settled Yet
+
+Mana Dork Labs is not yet incorporated, and no cooperative has signed a licence. The structure above is decided and the protections are settled in principle, but the numbers are not: the fee rate, the level of the cap, and the split between the fixed floor and the variable portion will be set with counsel. We will publish them before we ask any cooperative to agree to them.
