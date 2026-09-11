@@ -9,7 +9,7 @@ lede: The trick is bootstrapping
 ## Stages
 
 :::stages
-- [now] Develop the core infrastructure
+- [now] Develop the core infrastructure for [the Agora](/agora)
 - Bootstrap with an existing or currently forming cooperative marketplace
 - Go live and prove that the Agora can handle real load
 - Validate MDL's economic models and generate meaningful cash flow
