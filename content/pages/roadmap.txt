@@ -4,16 +4,16 @@ nav: The Roadmap
 order: 3
 eyebrow: The Roadmap
 heading: Critical mass is coming
-lede: The trick is in the bootstraps
+lede: The trick is bootstrapping
 
 ## Stages
 
 :::stages
 - [now] Develop the core infrastructure
-- Bootstrap with an existing or new cooperative marketplace
-- Go live and prove that the systems can handle real load
-- Validate the economic models and generate meaningful cash flows
-- Expand into other cooperative marketplaces, bolstered by capital flows from the successful proof of concept
+- Bootstrap with an existing or currently forming cooperative marketplace
+- Go live and prove that the Agora can handle real load
+- Validate MDL's economic models and generate meaningful cash flow
+- Expand into other cooperative marketplaces, bolstered by revenue from the successful proof of concept
 - Democratize capital, enable even more cooperatives beyond just marketplaces, and save the world
 :::
 

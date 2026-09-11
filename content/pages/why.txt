@@ -27,7 +27,7 @@ lede: Historically, capitalism dominated the economic world. That won't always b
 
 ## The Observation
 
-Capitalism has outlived its usefulness. Despite driving innovation for the last two hundred years, it has caused wealth to become hyper concentrated in the hands of a tiny minority. This minority is then using that wealth to further increase their own power, at the expense of everyone else. Fortunately, cooperatives have the power to eliminate excessive wealth inequality (and therefore the imbalance of power) that capitalism has generated. By fairly distributing ownership amongst those who *produce* value (rather than amongst those who simply have capital), civilization can finally solve not just wealth inequality, but arguably every human-centric problem on the planet.
+Capitalism has outlived its usefulness. Despite driving innovation for the last two hundred years, it has caused wealth to become hyper concentrated in the hands of a tiny minority. This minority is then using that wealth to further increase their own power, at the expense of everyone else. Fortunately, cooperatives have the power to eliminate excessive wealth inequality (and therefore the imbalance of power) that late-stage capitalism has generated. By fairly distributing ownership amongst those who *produce* value (rather than amongst those who simply have capital), civilization can finally solve not just wealth inequality, but arguably every human-centric problem on the planet.
 
 ## The Thesis
 
@@ -36,13 +36,13 @@ Because a standard corporation is legally required to maximize returns for its s
 Meanwhile, cooperatives are not structured with the same incentives. The "owners" are not shareholders, but members: they are sellers, buyers, users, patrons, etc. The cooperative does not exist as a profit maximization entity, but rather as a **cost minimization entity for everyone who interacts with it.**
 
 The key question for comparing economic efficiency then becomes:
-> Are the coordination costs of running a cooperative less than the extraction costs of running a capitalist corporation?
+> Does coordinating a cooperative cost less than what an equivalent capitalist organization extracts?
 
-Historically, the answer to this has been no. Coordinating votes, coming to consensus, and accessing capital are all activities that democratic cooperatives wrestle with much more than an un-democratic privately-owned business. Crucially, however, cooperative coordination costs can be reduced, and this reduction has only recently become possible due to the explosive advancement of digital technology over the last two decades.
+Historically, the answer to this has been no. Coordinating votes, coming to consensus, and accessing capital are all activities that democratic cooperatives must wrestle with much more than any un-democratic privately-owned business. Crucially, however, cooperative coordination costs *can* be reduced, and this reduction has only recently become possible due to the explosive advancement of digital technology over the last two decades.
 
 ## The Enabling Technology
 
-Blockchain technology (or more generically "distributed ledger technology", DLT) is a heavily underutilized resource for solving coordination problems. DLT, in its initial incarnation as "decentralized finance", rightfully earned a stigma that, unfortunately, still prevents many from evaluating other use cases more rationally. Far beyond merely digitizing a Ponzi scheme, DLT enables large communities to **achieve consensus more cheaply than ever before in human history**.
+Blockchain technology (or more generically "distributed ledger technology", DLT) is a heavily underutilized resource for solving coordination problems. DLT, in its initial incarnation as "decentralized finance", rightfully earned its stigma. Unfortunately, that stigma now prevents many from rationally evaluating alternative use cases. Far beyond merely digitizing a Ponzi scheme, DLT enables large communities to **achieve consensus more cheaply than ever before in human history**.
 
 DLT's capacity to trustlessly facilitate voting, governance, data storage, provenance, escrow, payments, and countless other online activities will inevitably revolutionize every digital industry. Using marketplace cooperatives as the point of entry, DLT could power an economic revolution capable of upending the entrenched pro-capitalist order...
 

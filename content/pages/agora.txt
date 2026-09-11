@@ -4,17 +4,17 @@ nav: The Agora
 order: 4
 eyebrow: The Agora
 heading: The Core Infrastructure
-lede: The Agora is our proof of concept. It is the 1.0 that will enable and demonstrate the viability and scalability of cooperative marketplaces.
+lede: The Agora is our proof of concept. It is the 1.0 that will enable and prove the viability and scalability of cooperative marketplaces.
 
 ## Key Principles of the Agora
 
-- Minimize friction
-- Minimize fees
-- Maximize user ownership
+- Minimize friction for transactions and governance
+- Minimize the costs of operation
+- Maximize the cooperative's ownership of the marketplace
 
 ## The Agora's Demonstration Goals
 
 - Show that a cooperative marketplace is viable and scales
-- Prove that a DLT-based system can function and handle real load
+- Prove that the Agora's DLT-based systems can function and handle real load
 - Validate the economic models and earn real revenue
-- Identify the set of core features that every marketplace needs, while maintaining modularity for usage in other markets
+- Stress-test the set of core features that every cooperative marketplace needs, while maintaining modularity for usage across multiple markets

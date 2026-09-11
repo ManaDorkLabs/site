@@ -4,7 +4,7 @@ nav: The License
 order: 6
 eyebrow: The License
 heading: How we get paid
-lede: Mana Dork Labs is a privately owned public benefit corporation (PBC), and every cooperative running an instance of the Agora pays a licensing fee for it. The following explains why we chose this configuration, and how this setup ensures that MDL won't become your next marketplace landlord.
+lede: Every cooperative running an instance of the Agora pays a licensing fee to Mana Dork Labs. The following explains why we chose this configuration, and how this setup ensures that MDL won't become your next marketplace landlord.
 
 ## The License Arrangement
 
