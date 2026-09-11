@@ -1,5 +1,5 @@
 title: Why cooperatives -- Mana Dork Labs
-description: Cooperativism vs capitalism: shareholder dividends weighed against cooperative coordination costs.
+description: Coordination -vs- Extraction
 nav: The Why
 order: 4
 eyebrow: The Why

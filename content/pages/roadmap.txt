@@ -1,5 +1,5 @@
 title: Roadmap -- Mana Dork Labs
-description: The road from core technology to a scaled cooperative marketplace.
+description: The road from core technology to a scaled cooperative marketplace infrastructure.
 nav: The Roadmap
 order: 3
 eyebrow: The Roadmap

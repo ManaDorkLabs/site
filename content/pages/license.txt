@@ -1,5 +1,5 @@
 title: The License -- Mana Dork Labs
-description: Mana Dork Labs is a privately owned public benefit corporation, paid a license fee by every cooperative on the Agora. Why that arrangement exists, and what bounds it.
+description: Mana Dork Labs is paid via a license fee by every cooperative on the Agora. Why that arrangement exists, and what bounds it.
 nav: The License
 order: 5
 eyebrow: The License

@@ -1,5 +1,5 @@
 title: Team -- Mana Dork Labs
-description: The 3 core values of Mana Dork Labs, and the people building it.
+description: The core values of Mana Dork Labs, and the people building it.
 nav: The Team
 order: 6
 eyebrow: The Team
