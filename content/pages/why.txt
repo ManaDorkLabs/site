@@ -44,6 +44,6 @@ Historically, the answer to this has been no. Coordinating votes, coming to cons
 
 Blockchain technology (or more generically "distributed ledger technology", DLT) is a heavily underutilized resource for solving coordination problems. DLT, in its initial incarnation as "decentralized finance", rightfully earned its stigma. Unfortunately, that stigma now prevents many from rationally evaluating alternative use cases. Far beyond merely digitizing a Ponzi scheme, DLT enables large communities to **achieve consensus more cheaply than ever before in human history**.
 
-DLT's capacity to trustlessly facilitate voting, governance, data storage, provenance, escrow, payments, and countless other online activities will inevitably revolutionize every digital industry. Using [marketplace cooperatives](/agora) as the point of entry, DLT could power an economic revolution capable of upending the entrenched pro-capitalist order...
+DLT's capacity to trustlessly facilitate voting, governance, data storage, provenance, escrow, payments, and countless other online activities will inevitably revolutionize every digital industry. Using marketplace cooperatives as the point of entry, DLT could power an economic revolution capable of upending the entrenched pro-capitalist order...
 
 **First slowly, then all at once.**
