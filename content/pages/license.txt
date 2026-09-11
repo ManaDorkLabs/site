@@ -4,18 +4,17 @@ nav: The License
 order: 6
 eyebrow: The License
 heading: How we get paid
-lede: Mana Dork Labs is a privately owned public benefit corporation, and every cooperative running on the Agora pays us a license fee. Here is why that arrangement exists, and what stops it from becoming the thing we argue against.
+lede: Mana Dork Labs is a privately owned public benefit corporation, and every cooperative running on an instance of the Agora pays a licensing fee for their usage of it. The following explains why we chose this configuration, and how this setup ensures that MDL won't become your next marketplace landlord.
 
-## The Arrangement
+## The License Arrangement
 
-Mana Dork Labs builds and maintains the Agora and licenses it to marketplace cooperatives. Each cooperative is a separate organization, owned and governed by its own members, and it pays Mana Dork Labs a license fee for the platform it runs on.
+Mana Dork Labs builds and maintains the Agora, which is then licensed to marketplace cooperatives. In exchange for a finite-horizon license fee, the cooperative receives *perpetual access* to the latest version of the Agora at the time of license expiry. This license structure enables Mana Dork Labs to have stable recurring revenue over an extended period, while the right to perpetual Agora access for the cooperative gives each of MDL's customers the capability to walk away at the end of each licensing period without losing access to their current marketplace version. Importantly though, despite having perpetual access to their current marketplace version at the time of license expiry,  the cooperative will need to renew their license if they wish to continue being able to receive updates, place requests for new features, and receive customer service.
 
-That produces two different fees, and keeping them apart matters:
+Critically, MDL never touches a marketplace transaction directly. Mana Dork Labs is not the merchant of record, holds no buyer or seller funds, and takes no commission on any individual sale. Money in a transaction moves only between the buyer, the seller, and the cooperative's treasury. The license fee is paid separately out of the cooperative's treasury, and is the whole of MDL's revenue from any single marketplace.
 
-- **The member fee** is what a seller pays their cooperative on a sale. The cooperative sets it, collects it, and returns the surplus to its members.
-- **The license fee** is what the cooperative pays Mana Dork Labs for the software. It is one of the cooperative's operating costs, sitting alongside things like insurance.
-
-We never touch a transaction directly. Mana Dork Labs is not the merchant of record, holds no buyer or seller funds, and takes no commission on an individual sale. Money moves between the buyer, the seller, and the cooperative's treasury. The license fee is the whole of our revenue from any marketplace.
+That produces two different fees, which are clarified below:
+- **The member fee**: this is what a seller pays their cooperative, typically as a percentage of a sale. The cooperative sets it, collects it, and often returns any surplus to its members. This is a governable parameter on the Agora.
+- **The license fee**: this is what the cooperative pays Mana Dork Labs for the software. It is one of the cooperative's operating costs, sitting alongside things like insurance, trademark costs, and legal fees. This is set by the license agreement between Mana Dork Labs and the cooperative.
 
 Ownership divides cleanly between the two sides:
 
