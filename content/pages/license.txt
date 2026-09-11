@@ -4,62 +4,49 @@ nav: The License
 order: 6
 eyebrow: The License
 heading: How we get paid
-lede: Mana Dork Labs is a privately owned public benefit corporation, and every cooperative running on an instance of the Agora pays a licensing fee for their usage of it. The following explains why we chose this configuration, and how this setup ensures that MDL won't become your next marketplace landlord.
+lede: Mana Dork Labs is a privately owned public benefit corporation (PBC), and every cooperative running an instance of the Agora pays a licensing fee for it. The following explains why we chose this configuration, and how this setup ensures that MDL won't become your next marketplace landlord.
 
 ## The License Arrangement
 
-Mana Dork Labs builds and maintains the Agora, which is then licensed to marketplace cooperatives. In exchange for a finite-horizon license fee, the cooperative receives *perpetual access* to the latest version of the Agora at the time of license expiry. This license structure enables Mana Dork Labs to have stable recurring revenue over an extended period, while the right to perpetual Agora access for the cooperative gives each of MDL's customers the capability to walk away at the end of each licensing period without losing access to their current marketplace version. Importantly though, despite having perpetual access to their current marketplace version at the time of license expiry,  the cooperative will need to renew their license if they wish to continue being able to receive updates, place requests for new features, and receive customer service.
+Mana Dork Labs builds and maintains the Agora, which is then licensed to marketplace cooperatives. In exchange for a finite-horizon license fee, the cooperative receives *perpetual access* to the latest version of the Agora at the time of license expiry. This license arrangement enables Mana Dork Labs to have stable recurring revenue over an extended period, while simultaneously giving the cooperative a real ability to walk away at the end of each licensing period. Importantly though, despite having perpetual access to their current marketplace version at license expiry, the cooperative will need to renew their license if they wish to continue being able to receive updates, place requests for new features, and receive customer service. This setup directly aligns the long-term incentives between Mana Dork Labs and its customers.
 
-Critically, MDL never touches a marketplace transaction directly. Mana Dork Labs is not the merchant of record, holds no buyer or seller funds, and takes no commission on any individual sale. Money in a transaction moves only between the buyer, the seller, and the cooperative's treasury. The license fee is paid separately out of the cooperative's treasury, and is the whole of MDL's revenue from any single marketplace.
+Critically, despite the license fee, MDL never touches a marketplace transaction directly. Mana Dork Labs is not the merchant of record, holds no buyer or seller funds, and takes no commission on any individual sale. Money in a marketplace transaction moves only between the buyer, the seller, and the cooperative's treasury. The license fee is paid separately out of that treasury, and it is the whole of MDL's revenue from any single cooperative. There are no hidden fees, and no gotchas.
 
-That produces two different fees, which are clarified below:
+This arrangement produces a key distinction:
 - **The member fee**: this is what a seller pays their cooperative, typically as a percentage of a sale. The cooperative sets it, collects it, and often returns any surplus to its members. This is a governable parameter on the Agora.
 - **The license fee**: this is what the cooperative pays Mana Dork Labs for the software. It is one of the cooperative's operating costs, sitting alongside things like insurance, trademark costs, and legal fees. This is set by the license agreement between Mana Dork Labs and the cooperative.
 
-Ownership divides cleanly between the two sides:
+To use a video game metaphor, licensing here works the way old-school game expansions did. A cooperative that licenses the Agora holds the version it licensed and keeps it whether or not the agreement continues; renewing buys the next iteration, with its upgrades, new features, and maintenance. Declining an expansion pack never took away the game you already owned, and this license arrangement works the same way.
 
-:::compare
-### The cooperative owns
-- Its governance and its votes
-- Its treasury and its surplus
-- Its own brand and its own name
-- Its sales data
-- The marketplace itself, as merchant of record
-### Mana Dork Labs owns
-- The source code and intellectual property for the cooperative marketplace infrastructure
-:::
+## Why Can't the Cooperative Build Its Own Platform?
 
-## Why the Cooperative Licenses Its Platform
+It's an excellent question, and the answer is a combination of financing and expertise.
 
-If the whole point is member ownership, the obvious question is why the cooperative licenses its platform from us rather than building its own. The answer is that the financing does not work, and the pattern is well documented.
+Cooperatives have notoriously terrible access to capital markets. While a marketplace cooperative can usually raise money from a member buy-in, it is very difficult for them to raise enough money to design, build, and maintain a marketplace platform. Even if the cooperative *could* access enough capital, it is arguably an even bigger hurdle to then find a member within the coop that has the proper engineering background to perform this work. As a result of this high barrier to entry, cooperatives tend to rent instead of own. Unfortunately, renting incurs a dependency on apathetic external actors for the cooperative's online marketplace infrastructure. This results in low effort bug-fixes, anemic (if any) development of cooperative-specific features, and sometimes even financial documentation boondoggles; all of which could otherwise have been avoided with sufficient capital and expertise.
 
-Licensing here works the way old-school game expansions did. A cooperative that licenses the Agora holds the version it licensed and keeps it whether or not the agreement continues; renewing buys the next iteration, with its upgrades, its new features, and the maintenance behind them. Declining an expansion pack never took away the game you already owned, and this works the same way.
-
-A marketplace cooperative can usually raise enough from a member buy-in to launch. It cannot usually raise enough to design, build, and maintain a marketplace platform, which is typically a multi-year engineering commitment that earns nothing until there are sellers on it. So the cooperative tends to rent instead, from a hosted commerce vendor that was never built for cooperative governance. The bill for that arrives in control rather than in dollars: rented platforms are cheap, and what they cost is the ability to fix your own bugs, ship the features your members need, and reconcile your own books.
-
-Mana Dork Labs exists to return control to the cooperatives in a way that today's capital markets might actually tolerate. Recurring license revenue across several cooperatives is financeable in a way that one cooperative's platform budget is not, which is the whole reason a separate company is doing this work. What the cooperative buys with the license fee is a platform built for cooperative governance from the ground up, and contractual control over it that no normal privately-owned company would ever agree to.
+Mana Dork Labs exists to fill this gap by providing a vehicle that today's capital markets can actually tolerate. Recurring license revenue across multiple cooperatives as a PBC is a financeable business model for investors in a way that a cooperative platform budget can never be. While MDL's formational charter prohibits the issuing of stock with **unbounded investor returns**, Mana Dork Labs *can* issue bonds (paying finite and/or horizon-limited returns) to finance its growth. Using this strategy, Mana Dork Labs can bootstrap its finances using a limited amount of investor capital until customer revenue grows large enough to be self-sustaining. It's a win-win: MDL gets access to capital, cooperatives get the Agora, and no 3rd party shareholder gets into the mix enough to establish perpetual extractive rents.
 
 ## A Coordination Cost, Not an Extraction Cost
 
-[The Why](/why) argues that shareholder profit is dead weight loss on transactions between producers and consumers. A license fee is a real cost too, so it is fair to ask whether we are or could become the thing we rail against.
+[The Why](/why) argues that shareholder profit is dead weight loss on transactions between producers and consumers. That said, a license fee could become an avenue of extraction too, so it is fair to ask how MDL can avoid becoming what it abhors.
 
-The difference is in what the payment buys. A shareholder dividend is a claim on surplus that persists as long as the shares do, and on the day it is paid it buys the business nothing. A license fee buys a specific thing: software that exists, is maintained, and is improved. Our license fee is capped, it is disclosed in full to the members of the cooperative, it is finite in duration, and it leaves the cooperative with perpetual access to the version of the software as it stands when the license agreement ends.
+The key is **time horizon**. A shareholder dividend is a claim on surplus that *persists as long as the shares do*. By comparison, MDL's license fee is (a) capped, (b) finite in duration, and (c) granting of ownership via perpetual irrevocable access. This changes the cost to the cooperative from a perpetual involuntary economic rent into a simple series of on-going voluntary business transactions.
 
-## What Bounds the Fee
+What the cooperative buys with the license fee is a platform built for cooperative governance from the ground up, and contractual control over that platform that no normal privately-owned company would ever agree to.
 
-Six protections define the license agreement.
+## Protections Of The License
 
-- **A perpetual, irrevocable license.** The cooperative's right to run its marketplace covers the running instance, the API, and the escrowed source, as they stand at the end of the license. We cannot switch it off.
-- **A hard cap, written into the cooperative's bylaws and into the marketplace's immutable code.** The license fee is capped as a share of the cooperative's gross fee revenue, and the cap is entrenched where the members control it rather than where we do.
-- **A fee that flexes with the year.** Part of it is contingent on surplus: a floor covering our marginal cost, plus a variable portion that compresses when the cooperative has a lean year. We only succeed when the cooperative succeeds.
-- **Source escrow with real triggers.** The source releases to the cooperative if Mana Dork Labs becomes insolvent, changes hands, or materially breaches the agreement, and the cooperative holds a right of first refusal on our assets.
-- **A veto over who owns us.** The cooperative holds a share in Mana Dork Labs carrying a veto on any change of control, so it cannot wake up licensing from a buyer it never chose.
-- **Approval and disclosure.** Every license term is approved by cooperative directors with no interest in Mana Dork Labs, published to the membership in full, and re-ratified on a fixed cycle.
+The following protections define the license agreement.
+
+- ** Perpetual and irrevocable.** The license grants the cooperative ownership of the running instance, the API, and the escrowed source, in their versioned states at the end of the license period. MDL cannot switch access off after the license expires (literally: the blockchain makes it impossible).
+- **A hard cap, written into the marketplace's immutable code.** The license fee is capped at a fixed percent of the cooperative's gross fee revenue.
+- **A fee that flexes with the year.** Part of the fee is contingent on surplus. A small floor covers our marginal cost, while a variable portion expands when the cooperative does well, or compresses (potentially to zero) when the cooperative struggles. MDL only succeeds when the cooperative succeeds.
+- **A veto over who owns us.** Each cooperative holding a license agreement with Mana Dork Labs is given a unilateral veto over any change of control, so the cooperative cannot wake up one day licensing from a buyer it never chose.
 
 ## Where We Draw the Line
 
-Three rules go into our corporate charter at formation, which is what makes them binding on us rather than merely stated by us. A constraint the founders can lift at will is not a constraint.
+The following rules exist in our corporate charter.
 
-- **We hold nothing inside any cooperative.** No equity, no membership, no patronage account, no board seat, no officer role, and no vote. We are a licensor, and while we are philosophically aligned with the cooperative, the relationship does not legally go any further than that.
-- **We do not operate a marketplace.** Not as merchant of record, not as a holder of anyone's funds, not for a cut of any individual sale, and not on a temporary basis while a cooperative is still forming. Running a demonstration on a test network is software; running a live market is the cooperative's job.
-- **Investors cannot buy their way into the relationship.** The charter bars shares entitling outside investors to unbounded or indefinite returns, and bars investor board control or investor consent rights over the license agreement.
+- **Mana Dork Labs hold nothing inside any cooperative.** No equity, no membership, no patronage account, no board seat, no officer role, and no vote. We are a licensor, and while we are philosophically aligned with the cooperative, the relationship cannot and should not go any further than that.
+- **We do not operate any marketplace.** Not as merchant of record, not as a holder of anyone's funds, not for a cut of any individual sale, and not on a temporary basis while a cooperative is still forming. Running the live market is the cooperative's job.
+- **Investors cannot buy their way into extraction of MDL's cooperative customers.** The charter bars the issuance of shares entitling investors to unbounded or indefinite returns, and further bars investor board control or investor consent rights over the license agreement.
