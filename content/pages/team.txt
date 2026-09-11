@@ -1,7 +1,7 @@
 title: Team -- Mana Dork Labs
 description: The 3 core values of Mana Dork Labs, and the people building it.
 nav: The Team
-order: 5
+order: 6
 eyebrow: The Team
 heading: Our Ethos
 lede: Leave the world better than you found it, and make enough money to keep going

@@ -1,7 +1,7 @@
 title: The Agora -- Mana Dork Labs
 description: The Agora is our proof of concept: the first cooperative marketplace built on Mana Dork Labs infrastructure.
 nav: The Agora
-order: 4
+order: 2
 eyebrow: The Agora
 heading: The Core Infrastructure
 lede: The Agora is our proof of concept. It is the 1.0 that will enable and prove the viability and scalability of cooperative marketplaces.

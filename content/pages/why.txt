@@ -1,7 +1,7 @@
 title: Why cooperatives -- Mana Dork Labs
 description: Cooperativism vs capitalism: shareholder dividends weighed against cooperative coordination costs.
 nav: The Why
-order: 2
+order: 4
 eyebrow: The Why
 heading: Economics is evolving
 lede: Historically, capitalism dominated the economic world. That won't always be the case.
