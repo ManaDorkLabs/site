@@ -230,6 +230,7 @@ body::after{
 }
 .people p{margin:0 0 14px;max-width:none}
 .people p:last-child{margin-bottom:0}
+.people hr{border:0;border-top:1px solid var(--rule);margin:18px 0}
 @media (min-width:720px){.people{grid-template-columns:1fr 1fr}}
 
 /* Anything still being written. Deliberately quiet — it should read as an

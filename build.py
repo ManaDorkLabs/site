@@ -159,7 +159,8 @@ def render_stages(lines):
 
 def render_people(lines):
     """Each `### Name` starts a card. `photo:` sets the headshot (blank leaves
-    the empty slot), `draft: label | text` adds a dashed placeholder note."""
+    the empty slot), `draft: label | text` adds a dashed placeholder note, and
+    `---` on its own line draws a rule between paragraphs."""
     people, person = [], None
     for chunk in paragraphs(lines):
         if chunk.startswith("### "):
@@ -172,6 +173,8 @@ def render_people(lines):
         elif chunk.startswith("draft:"):
             label, _, text = chunk[6:].partition("|")
             person["parts"].append(("draft", label.strip(), text.strip()))
+        elif chunk == "---":
+            person["parts"].append(("hr", "", ""))
         else:
             person["parts"].append(("p", chunk, ""))
 
@@ -188,6 +191,8 @@ def render_people(lines):
         for kind, a, b in person["parts"]:
             if kind == "p":
                 out.append(f"        <p>{inline(a)}</p>")
+            elif kind == "hr":
+                out.append("        <hr>")
             else:
                 out.append('        <div class="draft">')
                 out.append(f"          <b>{inline(a)}</b>")

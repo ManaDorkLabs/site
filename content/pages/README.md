@@ -93,7 +93,7 @@ square and the "Current" tag. Move it down the list as you go.
 
 **People.** `photo:` takes a file in `assets/` — leave it blank for the empty
 headshot slot. `draft:` is the dashed placeholder box, written as
-`label | text`.
+`label | text`. A `---` line draws a rule between paragraphs.
 
 ```
 :::people
