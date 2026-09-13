@@ -4,7 +4,7 @@ nav: The Agora
 order: 2
 eyebrow: The Agora
 heading: The Core Infrastructure
-lede: The Agora is our proof of concept. It is the 1.0 that will enable and prove the viability and scalability of cooperative marketplaces.
+lede: The Agora is the catalyst for enabling the scalability of cooperative marketplaces.
 
 ## Key Principles of the Agora
 
