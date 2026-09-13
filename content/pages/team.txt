@@ -24,20 +24,17 @@ We derive our core values from the Japanese concept of ikigai (translated litera
 :::people
 ### Rob
 
-// Rob's motivation in the source notes reads "Ikigai + fuck capitalism".
-// Needs a version he is happy to publish before the draft box comes out.
-
 photo: /assets/rob.jpg
 
 Aerospace engineer with experience developing MVPs in a fast-paced environment under extreme constraints.
 
-draft: Motivation | Under construction
+Motivation | I have spent my career building spacecraft under brutal constraints. In so doing, I learned that the hardest part of most systems is almost never developing the actual technical solutions; instead, it lies in aligning everyone on the project towards the same goal. When I realized the potential of platform cooperativism and the level to which these cooperatives are underserved for infrastructure, I knew that I had found my purpose: building Mana Dork Labs to solve the alignment problem for online marketplaces. 
 
 ### Brian
 
 photo: /assets/brian.jpg
 
-Amazon SWE with prior blockchain marketplace experience.
+SWE with prior blockchain marketplace experience.
 
 draft: Motivation | Under construction
 :::
