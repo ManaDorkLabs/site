@@ -27,7 +27,7 @@ We derive our core values from the Japanese concept of ikigai (translated litera
 // Rob's motivation in the source notes reads "Ikigai + fuck capitalism".
 // Needs a version he is happy to publish before the draft box comes out.
 
-photo:
+photo: /assets/rob.jpg
 
 Aerospace engineer with experience developing MVPs in a fast-paced environment under extreme constraints.
 
@@ -35,7 +35,7 @@ draft: Motivation | Under construction
 
 ### Brian
 
-photo:
+photo: /assets/brian.jpg
 
 Amazon SWE with prior blockchain marketplace experience.
 
