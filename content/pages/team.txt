@@ -27,8 +27,9 @@ We derive our core values from the Japanese concept of ikigai (translated litera
 photo: /assets/rob.jpg
 
 Aerospace engineer with experience developing MVPs in a fast-paced environment under extreme constraints.
+---
+Motivation:
 
-Rob's Motivation:
 I have spent my career building spacecraft under brutal constraints. In so doing, I learned that the hardest part of most systems is almost never developing the actual technical solutions; instead, it lies in aligning everyone on the project towards the same goal. When I realized the potential of platform cooperatives and how underserved they are for infrastructure, I became determined to build Mana Dork Labs and deliver the solution to the alignment problem for online marketplaces. 
 
 ### Brian
